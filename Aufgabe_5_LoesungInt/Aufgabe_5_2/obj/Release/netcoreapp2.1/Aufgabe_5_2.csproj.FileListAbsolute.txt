@@ -1,0 +1,11 @@
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\bin\Release\netcoreapp2.1\Aufgabe_5_2.deps.json
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\bin\Release\netcoreapp2.1\Aufgabe_5_2.runtimeconfig.json
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\bin\Release\netcoreapp2.1\Aufgabe_5_2.runtimeconfig.dev.json
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\bin\Release\netcoreapp2.1\Aufgabe_5_2.dll
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\bin\Release\netcoreapp2.1\Aufgabe_5_2.pdb
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\obj\Release\netcoreapp2.1\Aufgabe_5_2.csprojAssemblyReference.cache
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\obj\Release\netcoreapp2.1\Aufgabe_5_2.csproj.CoreCompileInputs.cache
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\obj\Release\netcoreapp2.1\Aufgabe_5_2.AssemblyInfoInputs.cache
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\obj\Release\netcoreapp2.1\Aufgabe_5_2.AssemblyInfo.cs
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\obj\Release\netcoreapp2.1\Aufgabe_5_2.dll
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_5_2\Aufgabe_5_2\obj\Release\netcoreapp2.1\Aufgabe_5_2.pdb

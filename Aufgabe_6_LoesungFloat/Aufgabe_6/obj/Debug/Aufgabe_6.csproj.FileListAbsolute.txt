@@ -1,0 +1,6 @@
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_6\Aufgabe_6\bin\Debug\Aufgabe_6.exe
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_6\Aufgabe_6\bin\Debug\Aufgabe_6.pdb
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_6\Aufgabe_6\obj\Debug\Aufgabe_6.csprojAssemblyReference.cache
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_6\Aufgabe_6\obj\Debug\Aufgabe_6.csproj.CoreCompileInputs.cache
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_6\Aufgabe_6\obj\Debug\Aufgabe_6.exe
+C:\Mahmoud\C#\Firma\Basis_2\Aufgabe_6\Aufgabe_6\obj\Debug\Aufgabe_6.pdb
