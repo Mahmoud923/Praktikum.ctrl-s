@@ -15,6 +15,7 @@ namespace Aufgabe_6
         {
             Spielverwalter wSpielverwalter = new Spielverwalter();
 
+            Console.WriteLine("Loesung Float");
             Console.WriteLine("Willkommen");
 
             int i = 0;
