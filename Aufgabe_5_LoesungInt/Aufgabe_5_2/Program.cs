@@ -9,7 +9,7 @@ namespace Aufgabe_5_2
         {
             Spielverwalter w_spielverwalter = new Spielverwalter();
 
-            Console.WriteLine("Loesung Int");
+           
             Console.WriteLine("Willkommen");
 
             int i = 0;
