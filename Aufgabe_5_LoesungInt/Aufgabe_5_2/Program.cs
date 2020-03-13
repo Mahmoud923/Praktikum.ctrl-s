@@ -10,7 +10,7 @@ namespace Aufgabe_5_2
             Spielverwalter w_spielverwalter = new Spielverwalter();
 
            
-            Console.WriteLine("Willkommen");
+            Console.WriteLine("Willkommen Yahla");
 
             int i = 0;
 

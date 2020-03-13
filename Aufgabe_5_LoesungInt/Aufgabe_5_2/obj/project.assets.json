@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Prog\\C#\\New folder\\Praktikum.ctrl-s\\Aufgabe_5_LoesungInt\\Aufgabe_5_2\\Aufgabe_5_2.csproj",
+      "projectUniqueName": "D:\\Prog\\C#\\Firma\\Basis_2\\Aufgabe_5_LoesungInt\\Aufgabe_5_2\\Aufgabe_5_2.csproj",
       "projectName": "Aufgabe_5_2",
-      "projectPath": "D:\\Prog\\C#\\New folder\\Praktikum.ctrl-s\\Aufgabe_5_LoesungInt\\Aufgabe_5_2\\Aufgabe_5_2.csproj",
+      "projectPath": "D:\\Prog\\C#\\Firma\\Basis_2\\Aufgabe_5_LoesungInt\\Aufgabe_5_2\\Aufgabe_5_2.csproj",
       "packagesPath": "C:\\Users\\2222212\\.nuget\\packages\\",
-      "outputPath": "D:\\Prog\\C#\\New folder\\Praktikum.ctrl-s\\Aufgabe_5_LoesungInt\\Aufgabe_5_2\\obj\\",
+      "outputPath": "D:\\Prog\\C#\\Firma\\Basis_2\\Aufgabe_5_LoesungInt\\Aufgabe_5_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
